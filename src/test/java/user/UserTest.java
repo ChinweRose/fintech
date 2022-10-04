@@ -1,6 +1,3 @@
 package user;
 
-public class UserTest {
-
-
-}
+public class UserTest {}
